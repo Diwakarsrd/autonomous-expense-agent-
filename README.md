@@ -10,10 +10,6 @@ files them in an internal expense system through a **real browser session**,
 and confirms back to the user — with explicit error recovery for receipts it
 can't confidently parse.
 
-Built as a portfolio project for agentic AI internship applications
-(CRED-style JD: browser automation, tool calling, multi-step planning, error
-recovery).
-
 ## Why this project
 
 It maps directly onto a fintech company's actual back office (expense
