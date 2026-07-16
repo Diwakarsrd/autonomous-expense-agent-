@@ -1,0 +1,7 @@
+pdfplumber
+reportlab
+fastapi
+uvicorn
+python-multipart
+pydantic
+playwright
